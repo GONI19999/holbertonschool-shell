@@ -1,2 +1,2 @@
 #!/bin/bash
-touch hello
+tail -10 /etc/passwd
